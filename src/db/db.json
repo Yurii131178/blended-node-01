@@ -2,25 +2,21 @@
   {
     "name": "Electronic Ceramic Soap",
     "price": "793.65",
-    "category": "Outdoors",
-    "description": "Discover the fox-like agility of our Shirt, perfect for well-documented users"
+    "category": "Outdoors"
   },
   {
     "name": "Ergonomic Marble Soap",
     "price": "867.49",
-    "category": "Outdoors",
-    "description": "The indigo Bike combines South Georgia and the South Sandwich Islands aesthetics with Rutherfordium-based durability"
+    "category": "Outdoors"
   },
   {
     "name": "Frozen Silk Mouse",
     "price": "486.00",
-    "category": "Health",
-    "description": "Stylish Computer designed to make you stand out with black looks"
+    "category": "Health"
   },
   {
     "name": "Gorgeous Marble Sausages",
     "price": "598.95",
-    "category": "Games",
-    "description": "The black Table combines Central African Republic aesthetics with Dubnium-based durability"
+    "category": "Games"
   }
 ]
