@@ -1,0 +1,28 @@
+{
+  "name": "blended-node-01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "generate": "node src/scripts/generateProducts.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yurii131178/blended-node-01.git"
+  },
+  "keywords": [],
+  "author": "Yurii Kosenko <yuriikosenkouniplyt@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yurii131178/blended-node-01/issues"
+  },
+  "homepage": "https://github.com/Yurii131178/blended-node-01#readme",
+  "devDependencies": {
+    "@eslint/js": "^9.33.0",
+    "@faker-js/faker": "^9.9.0",
+    "eslint": "^9.33.0",
+    "globals": "^16.3.0"
+  }
+}
